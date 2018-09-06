@@ -9,7 +9,8 @@ site_url: 'http://yourSite'
 copyright: 'Copyright (c) 2018'
 
 # Documentation and theme
-docs_dir: 'docs'
+docs_dir: 'mkdocs'
+site_dir: 'docs'
 theme: 'material'
 
 # Options
